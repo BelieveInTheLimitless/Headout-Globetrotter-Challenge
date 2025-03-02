@@ -1,0 +1,162 @@
+[
+    {
+      "city": "Paris",
+      "country": "France",
+      "clues": [
+        "This city is home to a famous tower that sparkles every night.",
+        "Known as the 'City of Love' and a hub for fashion and art."
+      ],
+      "fun_fact": [
+        "The Eiffel Tower was supposed to be dismantled after 20 years but was saved because it was useful for radio transmissions!",
+        "Paris has only one stop sign in the entire city—most intersections rely on priority-to-the-right rules."
+      ],
+      "trivia": [
+        "This city is famous for its croissants and macarons. Bon appétit!",
+        "Paris was originally a Roman city called Lutetia."
+      ]
+    },
+    {
+      "city": "Tokyo",
+      "country": "Japan",
+      "clues": [
+        "This city has the busiest pedestrian crossing in the world.",
+        "You can visit an entire district dedicated to anime, manga, and gaming."
+      ],
+      "fun_fact": [
+        "Tokyo was originally a small fishing village called Edo before becoming the bustling capital it is today!",
+        "More than 14 million people live in Tokyo, making it one of the most populous cities in the world."
+      ],
+      "trivia": [
+        "The city has over 160,000 restaurants, more than any other city in the world.",
+        "Tokyo's subway system is so efficient that train delays of just a few minutes come with formal apologies."
+      ]
+    },
+    {
+      "city": "New York",
+      "country": "USA",
+      "clues": [
+        "Home to a green statue gifted by France in the 1800s.",
+        "Nicknamed 'The Big Apple' and known for its Broadway theaters."
+      ],
+      "fun_fact": [
+        "The Statue of Liberty was originally a copper color before oxidizing to its iconic green patina.",
+        "Times Square was once called Longacre Square before being renamed in 1904."
+      ],
+      "trivia": [
+        "New York City has 468 subway stations, making it one of the most complex transit systems in the world.",
+        "The Empire State Building has its own zip code: 10118."
+      ]
+    },
+    {
+      "city": "Rome",
+      "country": "Italy",
+      "clues": [
+        "This city is built on seven hills and has a tiny country within its borders.",
+        "Ancient gladiators once fought in a massive stone amphitheater here."
+      ],
+      "fun_fact": [
+        "People throw about €1.5 million into the Trevi Fountain each year, which is collected and donated to charity.",
+        "Rome has more than 2,000 fountains, more than any other city in the world."
+      ],
+      "trivia": [
+        "The Pantheon in this city has the world's largest unreinforced concrete dome, built nearly 2,000 years ago.",
+        "This city's first university, La Sapienza, was founded in 1303 and is one of the largest in Europe."
+      ]
+    },
+    {
+      "city": "Sydney",
+      "country": "Australia",
+      "clues": [
+        "This harbor city is known for its iconic opera house with sail-shaped roofs.",
+        "It hosts the world's largest natural harbor and a famous New Year's Eve fireworks display."
+      ],
+      "fun_fact": [
+        "The Sydney Opera House took 14 years to build, 10 years longer than expected.",
+        "Sydney's Bondi Beach is one of the most famous beaches in the world, with lifeguards rescuing about 2,500 people per year."
+      ],
+      "trivia": [
+        "Sydney Tower is the city's tallest structure and the second tallest observation tower in the Southern Hemisphere.",
+        "The Sydney Harbour Bridge is nicknamed 'The Coathanger' due to its distinctive arch-based design."
+      ]
+    },
+    {
+      "city": "Cairo",
+      "country": "Egypt",
+      "clues": [
+        "This city sits near some of the world's most famous triangular stone structures.",
+        "The world's longest river flows through this ancient metropolis."
+      ],
+      "fun_fact": [
+        "The Great Pyramid of Giza, located on the outskirts of this city, is the only surviving structure of the Seven Wonders of the Ancient World.",
+        "Cairo's Al-Azhar University, founded in 970 CE, is one of the oldest continuously operating universities in the world."
+      ],
+      "trivia": [
+        "The Egyptian Museum in this city contains more than 120,000 ancient Egyptian artifacts, including treasures from Tutankhamun's tomb.",
+        "Cairo's Khan el-Khalili bazaar has been operating since the 14th century."
+      ]
+    },
+    {
+      "city": "Rio de Janeiro",
+      "country": "Brazil",
+      "clues": [
+        "This city is known for a massive statue of Christ with outstretched arms overlooking the bay.",
+        "It hosts the world's largest and most famous carnival celebration."
+      ],
+      "fun_fact": [
+        "The Christ the Redeemer statue is struck by lightning several times a year and has special lightning rods installed.",
+        "Copacabana Beach stretches for 2.5 miles and uses a distinctive black and white Portuguese wave pattern in its promenade."
+      ],
+      "trivia": [
+        "This city was once the capital of Portugal, the only European capital to exist outside of Europe.",
+        "The Maracanã Stadium once held nearly 200,000 people for the 1950 World Cup final, the largest crowd ever at a sporting event."
+      ]
+    },
+    {
+      "city": "Amsterdam",
+      "country": "Netherlands",
+      "clues": [
+        "This city has more bridges than Venice and more canals than anywhere else in the world.",
+        "Famous for its narrow houses, bicycle culture, and museums dedicated to artists like Van Gogh."
+      ],
+      "fun_fact": [
+        "Amsterdam has more than 1,200 bridges crossing its 165 canals.",
+        "Houses in Amsterdam are narrow because historically property taxes were based on the width of the building's facade."
+      ],
+      "trivia": [
+        "Amsterdam's Schiphol Airport is built on land that was once at the bottom of the sea.",
+        "The Anne Frank House is one of the city's most visited museums, preserving the hiding place where Anne Frank wrote her famous diary."
+      ]
+    },
+    {
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "clues": [
+        "This desert city is home to the world's tallest building and artificial islands shaped like palm trees.",
+        "Once a small fishing village, it's now known for luxury shopping, ultramodern architecture, and indoor ski slopes."
+      ],
+      "fun_fact": [
+        "Police in this city drive luxury cars including Lamborghinis, Ferraris, and Bentleys.",
+        "The Burj Khalifa is so tall that you can watch the sunset from the base, then take the elevator to the top and watch it set again."
+      ],
+      "trivia": [
+        "This city has the world's largest choreographed fountain system, with water jets that shoot up to 500 feet in the air.",
+        "Gold is so common in the souks (markets) here that there's an entire market nicknamed 'The City of Gold.'"
+      ]
+    },
+    {
+      "city": "Venice",
+      "country": "Italy",
+      "clues": [
+        "This unique city is built on 118 small islands connected by over 400 bridges.",
+        "Instead of roads, this city uses waterways and boats for transportation."
+      ],
+      "fun_fact": [
+        "Venice is sinking at a rate of 1-2 millimeters per year.",
+        "The Venice Carnival dates back to the 12th century and is famous for its elaborate masks."
+      ],
+      "trivia": [
+        "There are no cars or roads in Venice's historic center, making it the largest urban car-free area in Europe.",
+        "The city's famous gondolas are always painted black, by law, except for those belonging to high government officials."
+      ]
+    }
+  ]
