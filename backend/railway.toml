@@ -1,8 +1,8 @@
 [build]
 builder = "NIXPACKS"
-watchPatterns = ["app/**"]
+watchPatterns = ["backend/app/**"]
 
 [deploy]
 numReplicas = 1
-startCommand = "python run.py"
+startCommand = "cd backend && python run.py"
 healthcheckPath = "/"
