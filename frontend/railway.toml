@@ -1,11 +1,11 @@
 [build]
 builder = "NIXPACKS"
-watchPatterns = ["src/**", "public/**"]
-buildCommand = "npm run build"
+watchPatterns = ["frontend/src/**", "frontend/public/**"]
+buildCommand = "cd frontend && npm run build"
 
 [deploy]
 numReplicas = 1
-startCommand = "npm start"
+startCommand = "cd frontend && npm start"
 healthcheckPath = "/"
 healthcheckTimeout = 300
 restartPolicyType = "ON_FAILURE"
