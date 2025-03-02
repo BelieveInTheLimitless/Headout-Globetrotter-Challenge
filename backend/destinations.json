@@ -1,162 +1,1666 @@
 [
-    {
-      "city": "Paris",
-      "country": "France",
-      "clues": [
-        "This city is home to a famous tower that sparkles every night.",
-        "Known as the 'City of Love' and a hub for fashion and art."
-      ],
-      "fun_fact": [
-        "The Eiffel Tower was supposed to be dismantled after 20 years but was saved because it was useful for radio transmissions!",
-        "Paris has only one stop sign in the entire city—most intersections rely on priority-to-the-right rules."
-      ],
-      "trivia": [
-        "This city is famous for its croissants and macarons. Bon appétit!",
-        "Paris was originally a Roman city called Lutetia."
-      ]
-    },
-    {
-      "city": "Tokyo",
-      "country": "Japan",
-      "clues": [
-        "This city has the busiest pedestrian crossing in the world.",
-        "You can visit an entire district dedicated to anime, manga, and gaming."
-      ],
-      "fun_fact": [
-        "Tokyo was originally a small fishing village called Edo before becoming the bustling capital it is today!",
-        "More than 14 million people live in Tokyo, making it one of the most populous cities in the world."
-      ],
-      "trivia": [
-        "The city has over 160,000 restaurants, more than any other city in the world.",
-        "Tokyo's subway system is so efficient that train delays of just a few minutes come with formal apologies."
-      ]
-    },
-    {
-      "city": "New York",
-      "country": "USA",
-      "clues": [
-        "Home to a green statue gifted by France in the 1800s.",
-        "Nicknamed 'The Big Apple' and known for its Broadway theaters."
-      ],
-      "fun_fact": [
-        "The Statue of Liberty was originally a copper color before oxidizing to its iconic green patina.",
-        "Times Square was once called Longacre Square before being renamed in 1904."
-      ],
-      "trivia": [
-        "New York City has 468 subway stations, making it one of the most complex transit systems in the world.",
-        "The Empire State Building has its own zip code: 10118."
-      ]
-    },
-    {
-      "city": "Rome",
-      "country": "Italy",
-      "clues": [
-        "This city is built on seven hills and has a tiny country within its borders.",
-        "Ancient gladiators once fought in a massive stone amphitheater here."
-      ],
-      "fun_fact": [
-        "People throw about €1.5 million into the Trevi Fountain each year, which is collected and donated to charity.",
-        "Rome has more than 2,000 fountains, more than any other city in the world."
-      ],
-      "trivia": [
-        "The Pantheon in this city has the world's largest unreinforced concrete dome, built nearly 2,000 years ago.",
-        "This city's first university, La Sapienza, was founded in 1303 and is one of the largest in Europe."
-      ]
-    },
-    {
-      "city": "Sydney",
-      "country": "Australia",
-      "clues": [
-        "This harbor city is known for its iconic opera house with sail-shaped roofs.",
-        "It hosts the world's largest natural harbor and a famous New Year's Eve fireworks display."
-      ],
-      "fun_fact": [
-        "The Sydney Opera House took 14 years to build, 10 years longer than expected.",
-        "Sydney's Bondi Beach is one of the most famous beaches in the world, with lifeguards rescuing about 2,500 people per year."
-      ],
-      "trivia": [
-        "Sydney Tower is the city's tallest structure and the second tallest observation tower in the Southern Hemisphere.",
-        "The Sydney Harbour Bridge is nicknamed 'The Coathanger' due to its distinctive arch-based design."
-      ]
-    },
-    {
-      "city": "Cairo",
-      "country": "Egypt",
-      "clues": [
-        "This city sits near some of the world's most famous triangular stone structures.",
-        "The world's longest river flows through this ancient metropolis."
-      ],
-      "fun_fact": [
-        "The Great Pyramid of Giza, located on the outskirts of this city, is the only surviving structure of the Seven Wonders of the Ancient World.",
-        "Cairo's Al-Azhar University, founded in 970 CE, is one of the oldest continuously operating universities in the world."
-      ],
-      "trivia": [
-        "The Egyptian Museum in this city contains more than 120,000 ancient Egyptian artifacts, including treasures from Tutankhamun's tomb.",
-        "Cairo's Khan el-Khalili bazaar has been operating since the 14th century."
-      ]
-    },
-    {
-      "city": "Rio de Janeiro",
-      "country": "Brazil",
-      "clues": [
-        "This city is known for a massive statue of Christ with outstretched arms overlooking the bay.",
-        "It hosts the world's largest and most famous carnival celebration."
-      ],
-      "fun_fact": [
-        "The Christ the Redeemer statue is struck by lightning several times a year and has special lightning rods installed.",
-        "Copacabana Beach stretches for 2.5 miles and uses a distinctive black and white Portuguese wave pattern in its promenade."
-      ],
-      "trivia": [
-        "This city was once the capital of Portugal, the only European capital to exist outside of Europe.",
-        "The Maracanã Stadium once held nearly 200,000 people for the 1950 World Cup final, the largest crowd ever at a sporting event."
-      ]
-    },
-    {
-      "city": "Amsterdam",
-      "country": "Netherlands",
-      "clues": [
-        "This city has more bridges than Venice and more canals than anywhere else in the world.",
-        "Famous for its narrow houses, bicycle culture, and museums dedicated to artists like Van Gogh."
-      ],
-      "fun_fact": [
-        "Amsterdam has more than 1,200 bridges crossing its 165 canals.",
-        "Houses in Amsterdam are narrow because historically property taxes were based on the width of the building's facade."
-      ],
-      "trivia": [
-        "Amsterdam's Schiphol Airport is built on land that was once at the bottom of the sea.",
-        "The Anne Frank House is one of the city's most visited museums, preserving the hiding place where Anne Frank wrote her famous diary."
-      ]
-    },
-    {
-      "city": "Dubai",
-      "country": "United Arab Emirates",
-      "clues": [
-        "This desert city is home to the world's tallest building and artificial islands shaped like palm trees.",
-        "Once a small fishing village, it's now known for luxury shopping, ultramodern architecture, and indoor ski slopes."
-      ],
-      "fun_fact": [
-        "Police in this city drive luxury cars including Lamborghinis, Ferraris, and Bentleys.",
-        "The Burj Khalifa is so tall that you can watch the sunset from the base, then take the elevator to the top and watch it set again."
-      ],
-      "trivia": [
-        "This city has the world's largest choreographed fountain system, with water jets that shoot up to 500 feet in the air.",
-        "Gold is so common in the souks (markets) here that there's an entire market nicknamed 'The City of Gold.'"
-      ]
-    },
-    {
-      "city": "Venice",
-      "country": "Italy",
-      "clues": [
-        "This unique city is built on 118 small islands connected by over 400 bridges.",
-        "Instead of roads, this city uses waterways and boats for transportation."
-      ],
-      "fun_fact": [
-        "Venice is sinking at a rate of 1-2 millimeters per year.",
-        "The Venice Carnival dates back to the 12th century and is famous for its elaborate masks."
-      ],
-      "trivia": [
-        "There are no cars or roads in Venice's historic center, making it the largest urban car-free area in Europe.",
-        "The city's famous gondolas are always painted black, by law, except for those belonging to high government officials."
-      ]
-    }
-  ]
+  {
+    "city": "Paris",
+    "country": "France",
+    "clues": [
+      "This city is home to a famous tower that sparkles every night.",
+      "Known as the 'City of Love' and a hub for fashion and art."
+    ],
+    "fun_fact": [
+      "The Eiffel Tower was supposed to be dismantled after 20 years but was saved because it was useful for radio transmissions!",
+      "Paris has only one stop sign in the entire city—most intersections rely on priority-to-the-right rules."
+    ],
+    "trivia": [
+      "This city is famous for its croissants and macarons. Bon appétit!",
+      "Paris was originally a Roman city called Lutetia."
+    ]
+  },
+  {
+    "city": "Tokyo",
+    "country": "Japan",
+    "clues": [
+      "This city has the busiest pedestrian crossing in the world.",
+      "You can visit an entire district dedicated to anime, manga, and gaming."
+    ],
+    "fun_fact": [
+      "Tokyo was originally a small fishing village called Edo before becoming the bustling capital it is today!",
+      "More than 14 million people live in Tokyo, making it one of the most populous cities in the world."
+    ],
+    "trivia": [
+      "The city has over 160,000 restaurants, more than any other city in the world.",
+      "Tokyo's subway system is so efficient that train delays of just a few minutes come with formal apologies."
+    ]
+  },
+  {
+    "city": "New York",
+    "country": "USA",
+    "clues": [
+      "Home to a green statue gifted by France in the 1800s.",
+      "Nicknamed 'The Big Apple' and known for its Broadway theaters."
+    ],
+    "fun_fact": [
+      "The Statue of Liberty was originally a copper color before oxidizing to its iconic green patina.",
+      "Times Square was once called Longacre Square before being renamed in 1904."
+    ],
+    "trivia": [
+      "New York City has 468 subway stations, making it one of the most complex transit systems in the world.",
+      "The Empire State Building has its own zip code: 10118."
+    ]
+  },
+  {
+    "city": "Rome",
+    "country": "Italy",
+    "clues": [
+      "This city is built on seven hills and has a tiny country within its borders.",
+      "Ancient gladiators once fought in a massive stone amphitheater here."
+    ],
+    "fun_fact": [
+      "People throw about €1.5 million into the Trevi Fountain each year, which is collected and donated to charity.",
+      "Rome has more than 2,000 fountains, more than any other city in the world."
+    ],
+    "trivia": [
+      "The Pantheon in this city has the world's largest unreinforced concrete dome, built nearly 2,000 years ago.",
+      "This city's first university, La Sapienza, was founded in 1303 and is one of the largest in Europe."
+    ]
+  },
+  {
+    "city": "Sydney",
+    "country": "Australia",
+    "clues": [
+      "This harbor city is known for its iconic opera house with sail-shaped roofs.",
+      "It hosts the world's largest natural harbor and a famous New Year's Eve fireworks display."
+    ],
+    "fun_fact": [
+      "The Sydney Opera House took 14 years to build, 10 years longer than expected.",
+      "Sydney's Bondi Beach is one of the most famous beaches in the world, with lifeguards rescuing about 2,500 people per year."
+    ],
+    "trivia": [
+      "Sydney Tower is the city's tallest structure and the second tallest observation tower in the Southern Hemisphere.",
+      "The Sydney Harbour Bridge is nicknamed 'The Coathanger' due to its distinctive arch-based design."
+    ]
+  },
+  {
+    "city": "Cairo",
+    "country": "Egypt",
+    "clues": [
+      "This city sits near some of the world's most famous triangular stone structures.",
+      "The world's longest river flows through this ancient metropolis."
+    ],
+    "fun_fact": [
+      "The Great Pyramid of Giza, located on the outskirts of this city, is the only surviving structure of the Seven Wonders of the Ancient World.",
+      "Cairo's Al-Azhar University, founded in 970 CE, is one of the oldest continuously operating universities in the world."
+    ],
+    "trivia": [
+      "The Egyptian Museum in this city contains more than 120,000 ancient Egyptian artifacts, including treasures from Tutankhamun's tomb.",
+      "Cairo's Khan el-Khalili bazaar has been operating since the 14th century."
+    ]
+  },
+  {
+    "city": "Rio de Janeiro",
+    "country": "Brazil",
+    "clues": [
+      "This city is known for a massive statue of Christ with outstretched arms overlooking the bay.",
+      "It hosts the world's largest and most famous carnival celebration."
+    ],
+    "fun_fact": [
+      "The Christ the Redeemer statue is struck by lightning several times a year and has special lightning rods installed.",
+      "Copacabana Beach stretches for 2.5 miles and uses a distinctive black and white Portuguese wave pattern in its promenade."
+    ],
+    "trivia": [
+      "This city was once the capital of Portugal, the only European capital to exist outside of Europe.",
+      "The Maracanã Stadium once held nearly 200,000 people for the 1950 World Cup final, the largest crowd ever at a sporting event."
+    ]
+  },
+  {
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "clues": [
+      "This city has more bridges than Venice and more canals than anywhere else in the world.",
+      "Famous for its narrow houses, bicycle culture, and museums dedicated to artists like Van Gogh."
+    ],
+    "fun_fact": [
+      "Amsterdam has more than 1,200 bridges crossing its 165 canals.",
+      "Houses in Amsterdam are narrow because historically property taxes were based on the width of the building's facade."
+    ],
+    "trivia": [
+      "Amsterdam's Schiphol Airport is built on land that was once at the bottom of the sea.",
+      "The Anne Frank House is one of the city's most visited museums, preserving the hiding place where Anne Frank wrote her famous diary."
+    ]
+  },
+  {
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "clues": [
+      "This desert city is home to the world's tallest building and artificial islands shaped like palm trees.",
+      "Once a small fishing village, it's now known for luxury shopping, ultramodern architecture, and indoor ski slopes."
+    ],
+    "fun_fact": [
+      "Police in this city drive luxury cars including Lamborghinis, Ferraris, and Bentleys.",
+      "The Burj Khalifa is so tall that you can watch the sunset from the base, then take the elevator to the top and watch it set again."
+    ],
+    "trivia": [
+      "This city has the world's largest choreographed fountain system, with water jets that shoot up to 500 feet in the air.",
+      "Gold is so common in the souks (markets) here that there's an entire market nicknamed 'The City of Gold.'"
+    ]
+  },
+  {
+    "city": "Venice",
+    "country": "Italy",
+    "clues": [
+      "This unique city is built on 118 small islands connected by over 400 bridges.",
+      "Instead of roads, this city uses waterways and boats for transportation."
+    ],
+    "fun_fact": [
+      "Venice is sinking at a rate of 1-2 millimeters per year.",
+      "The Venice Carnival dates back to the 12th century and is famous for its elaborate masks."
+    ],
+    "trivia": [
+      "There are no cars or roads in Venice's historic center, making it the largest urban car-free area in Europe.",
+      "The city's famous gondolas are always painted black, by law, except for those belonging to high government officials."
+    ]
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "clues": [
+      "This city has a famous clock tower that many mistakenly call 'Big Ben.'",
+      "It is home to a royal palace and red double-decker buses."
+    ],
+    "fun_fact": [
+      "The London Underground is the world's first underground railway system.",
+      "There are more than 170 museums in London, many of which are free to visit."
+    ],
+    "trivia": [
+      "The River Thames has over 200 bridges crossing it within London.",
+      "London\u2019s Tower Bridge sometimes gets mistaken for London Bridge."
+    ]
+  },
+  {
+    "city": "Berlin",
+    "country": "Germany",
+    "clues": [
+      "A famous wall once divided this city into East and West.",
+      "It is known for its techno music scene and vibrant art culture."
+    ],
+    "fun_fact": [
+      "Berlin has more bridges than Venice\u2014over 1,700!",
+      "There are over 1,000 doner kebab shops in Berlin, more than in Istanbul."
+    ],
+    "trivia": [
+      "Berlin\u2019s Zoologischer Garten is the oldest zoo in Germany and one of the largest in the world.",
+      "The city\u2019s Brandenburg Gate was once a symbol of division but is now a symbol of unity."
+    ]
+  },
+  {
+    "city": "Moscow",
+    "country": "Russia",
+    "clues": [
+      "This city is home to colorful onion-domed cathedrals.",
+      "It has one of the deepest and most ornate subway systems in the world."
+    ],
+    "fun_fact": [
+      "Moscow's Kremlin is the largest active fortress in Europe.",
+      "The Moscow Metro stations are often called 'underground palaces' due to their luxurious design."
+    ],
+    "trivia": [
+      "Moscow spans over 2,500 square kilometers, making it one of the largest cities in the world by area.",
+      "The Bolshoi Theatre in Moscow is home to one of the world's oldest ballet companies."
+    ]
+  },
+  {
+    "city": "Istanbul",
+    "country": "Turkey",
+    "clues": [
+      "This city uniquely straddles two continents: Europe and Asia.",
+      "It was formerly known as Byzantium and later Constantinople."
+    ],
+    "fun_fact": [
+      "The Grand Bazaar in this city has over 4,000 shops and dates back to the 15th century.",
+      "Istanbul's Hagia Sophia has been a cathedral, a mosque, and now a museum."
+    ],
+    "trivia": [
+      "Tulips, often associated with the Netherlands, actually originated in Turkey.",
+      "The Bosphorus Strait is one of the world's busiest waterways, connecting the Black Sea to the Sea of Marmara."
+    ]
+  },
+  {
+    "city": "Madrid",
+    "country": "Spain",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Madrid has a fascinating historical background.",
+      "Madrid hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Madrid has a landmark that is famous worldwide.",
+      "The cuisine of Madrid is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Barcelona",
+    "country": "Spain",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Barcelona has a fascinating historical background.",
+      "Barcelona hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Barcelona has a landmark that is famous worldwide.",
+      "The cuisine of Barcelona is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Lisbon",
+    "country": "Portugal",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Lisbon has a fascinating historical background.",
+      "Lisbon hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Lisbon has a landmark that is famous worldwide.",
+      "The cuisine of Lisbon is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Athens",
+    "country": "Greece",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Athens has a fascinating historical background.",
+      "Athens hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Athens has a landmark that is famous worldwide.",
+      "The cuisine of Athens is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Prague",
+    "country": "Czech Republic",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Prague has a fascinating historical background.",
+      "Prague hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Prague has a landmark that is famous worldwide.",
+      "The cuisine of Prague is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Vienna",
+    "country": "Austria",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Vienna has a fascinating historical background.",
+      "Vienna hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Vienna has a landmark that is famous worldwide.",
+      "The cuisine of Vienna is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Budapest",
+    "country": "Hungary",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Budapest has a fascinating historical background.",
+      "Budapest hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Budapest has a landmark that is famous worldwide.",
+      "The cuisine of Budapest is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Warsaw",
+    "country": "Poland",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Warsaw has a fascinating historical background.",
+      "Warsaw hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Warsaw has a landmark that is famous worldwide.",
+      "The cuisine of Warsaw is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Copenhagen has a fascinating historical background.",
+      "Copenhagen hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Copenhagen has a landmark that is famous worldwide.",
+      "The cuisine of Copenhagen is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Stockholm",
+    "country": "Sweden",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Stockholm has a fascinating historical background.",
+      "Stockholm hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Stockholm has a landmark that is famous worldwide.",
+      "The cuisine of Stockholm is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Helsinki",
+    "country": "Finland",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Helsinki has a fascinating historical background.",
+      "Helsinki hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Helsinki has a landmark that is famous worldwide.",
+      "The cuisine of Helsinki is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Oslo",
+    "country": "Norway",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Oslo has a fascinating historical background.",
+      "Oslo hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Oslo has a landmark that is famous worldwide.",
+      "The cuisine of Oslo is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Reykjavik",
+    "country": "Iceland",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Reykjavik has a fascinating historical background.",
+      "Reykjavik hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Reykjavik has a landmark that is famous worldwide.",
+      "The cuisine of Reykjavik is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Dublin",
+    "country": "Ireland",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Dublin has a fascinating historical background.",
+      "Dublin hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Dublin has a landmark that is famous worldwide.",
+      "The cuisine of Dublin is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Brussels",
+    "country": "Belgium",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Brussels has a fascinating historical background.",
+      "Brussels hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Brussels has a landmark that is famous worldwide.",
+      "The cuisine of Brussels is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Zurich",
+    "country": "Switzerland",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Zurich has a fascinating historical background.",
+      "Zurich hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Zurich has a landmark that is famous worldwide.",
+      "The cuisine of Zurich is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Geneva",
+    "country": "Switzerland",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Geneva has a fascinating historical background.",
+      "Geneva hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Geneva has a landmark that is famous worldwide.",
+      "The cuisine of Geneva is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Munich",
+    "country": "Germany",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Munich has a fascinating historical background.",
+      "Munich hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Munich has a landmark that is famous worldwide.",
+      "The cuisine of Munich is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Frankfurt has a fascinating historical background.",
+      "Frankfurt hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Frankfurt has a landmark that is famous worldwide.",
+      "The cuisine of Frankfurt is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Milan",
+    "country": "Italy",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Milan has a fascinating historical background.",
+      "Milan hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Milan has a landmark that is famous worldwide.",
+      "The cuisine of Milan is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Naples",
+    "country": "Italy",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Naples has a fascinating historical background.",
+      "Naples hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Naples has a landmark that is famous worldwide.",
+      "The cuisine of Naples is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Edinburgh",
+    "country": "United Kingdom",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Edinburgh has a fascinating historical background.",
+      "Edinburgh hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Edinburgh has a landmark that is famous worldwide.",
+      "The cuisine of Edinburgh is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Glasgow",
+    "country": "United Kingdom",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Glasgow has a fascinating historical background.",
+      "Glasgow hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Glasgow has a landmark that is famous worldwide.",
+      "The cuisine of Glasgow is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Bratislava has a fascinating historical background.",
+      "Bratislava hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Bratislava has a landmark that is famous worldwide.",
+      "The cuisine of Bratislava is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Luxembourg",
+    "country": "Luxembourg",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Luxembourg has a fascinating historical background.",
+      "Luxembourg hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Luxembourg has a landmark that is famous worldwide.",
+      "The cuisine of Luxembourg is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Belgrade",
+    "country": "Serbia",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Belgrade has a fascinating historical background.",
+      "Belgrade hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Belgrade has a landmark that is famous worldwide.",
+      "The cuisine of Belgrade is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Zagreb",
+    "country": "Croatia",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Zagreb has a fascinating historical background.",
+      "Zagreb hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Zagreb has a landmark that is famous worldwide.",
+      "The cuisine of Zagreb is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Ljubljana has a fascinating historical background.",
+      "Ljubljana hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Ljubljana has a landmark that is famous worldwide.",
+      "The cuisine of Ljubljana is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Sofia has a fascinating historical background.",
+      "Sofia hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Sofia has a landmark that is famous worldwide.",
+      "The cuisine of Sofia is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Bucharest",
+    "country": "Romania",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Bucharest has a fascinating historical background.",
+      "Bucharest hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Bucharest has a landmark that is famous worldwide.",
+      "The cuisine of Bucharest is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Kyiv has a fascinating historical background.",
+      "Kyiv hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Kyiv has a landmark that is famous worldwide.",
+      "The cuisine of Kyiv is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Saint Petersburg",
+    "country": "Russia",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Saint Petersburg has a fascinating historical background.",
+      "Saint Petersburg hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Saint Petersburg has a landmark that is famous worldwide.",
+      "The cuisine of Saint Petersburg is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Kazan",
+    "country": "Russia",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Kazan has a fascinating historical background.",
+      "Kazan hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Kazan has a landmark that is famous worldwide.",
+      "The cuisine of Kazan is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Jakarta",
+    "country": "Indonesia",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Jakarta has a fascinating historical background.",
+      "Jakarta hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Jakarta has a landmark that is famous worldwide.",
+      "The cuisine of Jakarta is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Manila",
+    "country": "Philippines",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Manila has a fascinating historical background.",
+      "Manila hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Manila has a landmark that is famous worldwide.",
+      "The cuisine of Manila is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Bangkok",
+    "country": "Thailand",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Bangkok has a fascinating historical background.",
+      "Bangkok hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Bangkok has a landmark that is famous worldwide.",
+      "The cuisine of Bangkok is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Kuala Lumpur",
+    "country": "Malaysia",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Kuala Lumpur has a fascinating historical background.",
+      "Kuala Lumpur hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Kuala Lumpur has a landmark that is famous worldwide.",
+      "The cuisine of Kuala Lumpur is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Hanoi has a fascinating historical background.",
+      "Hanoi hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Hanoi has a landmark that is famous worldwide.",
+      "The cuisine of Hanoi is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Ho Chi Minh City",
+    "country": "Vietnam",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Ho Chi Minh City has a fascinating historical background.",
+      "Ho Chi Minh City hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Ho Chi Minh City has a landmark that is famous worldwide.",
+      "The cuisine of Ho Chi Minh City is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Singapore",
+    "country": "Singapore",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Singapore has a fascinating historical background.",
+      "Singapore hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Singapore has a landmark that is famous worldwide.",
+      "The cuisine of Singapore is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Seoul",
+    "country": "South Korea",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Seoul has a fascinating historical background.",
+      "Seoul hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Seoul has a landmark that is famous worldwide.",
+      "The cuisine of Seoul is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Beijing",
+    "country": "China",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Beijing has a fascinating historical background.",
+      "Beijing hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Beijing has a landmark that is famous worldwide.",
+      "The cuisine of Beijing is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Shanghai",
+    "country": "China",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Shanghai has a fascinating historical background.",
+      "Shanghai hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Shanghai has a landmark that is famous worldwide.",
+      "The cuisine of Shanghai is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Hong Kong",
+    "country": "China",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Hong Kong has a fascinating historical background.",
+      "Hong Kong hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Hong Kong has a landmark that is famous worldwide.",
+      "The cuisine of Hong Kong is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Taipei",
+    "country": "Taiwan",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Taipei has a fascinating historical background.",
+      "Taipei hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Taipei has a landmark that is famous worldwide.",
+      "The cuisine of Taipei is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Macau",
+    "country": "China",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Macau has a fascinating historical background.",
+      "Macau hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Macau has a landmark that is famous worldwide.",
+      "The cuisine of Macau is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "New Delhi",
+    "country": "India",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "New Delhi has a fascinating historical background.",
+      "New Delhi hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "New Delhi has a landmark that is famous worldwide.",
+      "The cuisine of New Delhi is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Mumbai",
+    "country": "India",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Mumbai has a fascinating historical background.",
+      "Mumbai hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Mumbai has a landmark that is famous worldwide.",
+      "The cuisine of Mumbai is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Bangalore",
+    "country": "India",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Bangalore has a fascinating historical background.",
+      "Bangalore hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Bangalore has a landmark that is famous worldwide.",
+      "The cuisine of Bangalore is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Chennai",
+    "country": "India",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Chennai has a fascinating historical background.",
+      "Chennai hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Chennai has a landmark that is famous worldwide.",
+      "The cuisine of Chennai is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Cape Town",
+    "country": "South Africa",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Cape Town has a fascinating historical background.",
+      "Cape Town hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Cape Town has a landmark that is famous worldwide.",
+      "The cuisine of Cape Town is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Johannesburg has a fascinating historical background.",
+      "Johannesburg hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Johannesburg has a landmark that is famous worldwide.",
+      "The cuisine of Johannesburg is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Casablanca",
+    "country": "Morocco",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Casablanca has a fascinating historical background.",
+      "Casablanca hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Casablanca has a landmark that is famous worldwide.",
+      "The cuisine of Casablanca is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Marrakech",
+    "country": "Morocco",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Marrakech has a fascinating historical background.",
+      "Marrakech hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Marrakech has a landmark that is famous worldwide.",
+      "The cuisine of Marrakech is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Nairobi",
+    "country": "Kenya",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Nairobi has a fascinating historical background.",
+      "Nairobi hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Nairobi has a landmark that is famous worldwide.",
+      "The cuisine of Nairobi is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Lagos",
+    "country": "Nigeria",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Lagos has a fascinating historical background.",
+      "Lagos hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Lagos has a landmark that is famous worldwide.",
+      "The cuisine of Lagos is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Accra",
+    "country": "Ghana",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Accra has a fascinating historical background.",
+      "Accra hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Accra has a landmark that is famous worldwide.",
+      "The cuisine of Accra is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Dakar",
+    "country": "Senegal",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Dakar has a fascinating historical background.",
+      "Dakar hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Dakar has a landmark that is famous worldwide.",
+      "The cuisine of Dakar is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Addis Ababa",
+    "country": "Ethiopia",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Addis Ababa has a fascinating historical background.",
+      "Addis Ababa hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Addis Ababa has a landmark that is famous worldwide.",
+      "The cuisine of Addis Ababa is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Dar es Salaam has a fascinating historical background.",
+      "Dar es Salaam hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Dar es Salaam has a landmark that is famous worldwide.",
+      "The cuisine of Dar es Salaam is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Mexico City",
+    "country": "Mexico",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Mexico City has a fascinating historical background.",
+      "Mexico City hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Mexico City has a landmark that is famous worldwide.",
+      "The cuisine of Mexico City is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Guadalajara",
+    "country": "Mexico",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Guadalajara has a fascinating historical background.",
+      "Guadalajara hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Guadalajara has a landmark that is famous worldwide.",
+      "The cuisine of Guadalajara is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Monterrey",
+    "country": "Mexico",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Monterrey has a fascinating historical background.",
+      "Monterrey hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Monterrey has a landmark that is famous worldwide.",
+      "The cuisine of Monterrey is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Bogot\u00e1",
+    "country": "Colombia",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Bogot\u00e1 has a fascinating historical background.",
+      "Bogot\u00e1 hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Bogot\u00e1 has a landmark that is famous worldwide.",
+      "The cuisine of Bogot\u00e1 is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Lima",
+    "country": "Peru",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Lima has a fascinating historical background.",
+      "Lima hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Lima has a landmark that is famous worldwide.",
+      "The cuisine of Lima is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Santiago",
+    "country": "Chile",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Santiago has a fascinating historical background.",
+      "Santiago hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Santiago has a landmark that is famous worldwide.",
+      "The cuisine of Santiago is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Buenos Aires has a fascinating historical background.",
+      "Buenos Aires hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Buenos Aires has a landmark that is famous worldwide.",
+      "The cuisine of Buenos Aires is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Montevideo",
+    "country": "Uruguay",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Montevideo has a fascinating historical background.",
+      "Montevideo hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Montevideo has a landmark that is famous worldwide.",
+      "The cuisine of Montevideo is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Caracas",
+    "country": "Venezuela",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Caracas has a fascinating historical background.",
+      "Caracas hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Caracas has a landmark that is famous worldwide.",
+      "The cuisine of Caracas is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Quito",
+    "country": "Ecuador",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Quito has a fascinating historical background.",
+      "Quito hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Quito has a landmark that is famous worldwide.",
+      "The cuisine of Quito is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Havana",
+    "country": "Cuba",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Havana has a fascinating historical background.",
+      "Havana hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Havana has a landmark that is famous worldwide.",
+      "The cuisine of Havana is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "San Juan",
+    "country": "Puerto Rico",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "San Juan has a fascinating historical background.",
+      "San Juan hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "San Juan has a landmark that is famous worldwide.",
+      "The cuisine of San Juan is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Panama City",
+    "country": "Panama",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Panama City has a fascinating historical background.",
+      "Panama City hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Panama City has a landmark that is famous worldwide.",
+      "The cuisine of Panama City is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "San Jos\u00e9",
+    "country": "Costa Rica",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "San Jos\u00e9 has a fascinating historical background.",
+      "San Jos\u00e9 hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "San Jos\u00e9 has a landmark that is famous worldwide.",
+      "The cuisine of San Jos\u00e9 is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "La Paz",
+    "country": "Bolivia",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "La Paz has a fascinating historical background.",
+      "La Paz hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "La Paz has a landmark that is famous worldwide.",
+      "The cuisine of La Paz is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Asunci\u00f3n",
+    "country": "Paraguay",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Asunci\u00f3n has a fascinating historical background.",
+      "Asunci\u00f3n hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Asunci\u00f3n has a landmark that is famous worldwide.",
+      "The cuisine of Asunci\u00f3n is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Kingston",
+    "country": "Jamaica",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Kingston has a fascinating historical background.",
+      "Kingston hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Kingston has a landmark that is famous worldwide.",
+      "The cuisine of Kingston is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Port of Spain",
+    "country": "Trinidad and Tobago",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Port of Spain has a fascinating historical background.",
+      "Port of Spain hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Port of Spain has a landmark that is famous worldwide.",
+      "The cuisine of Port of Spain is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Toronto",
+    "country": "Canada",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Toronto has a fascinating historical background.",
+      "Toronto hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Toronto has a landmark that is famous worldwide.",
+      "The cuisine of Toronto is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Vancouver",
+    "country": "Canada",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Vancouver has a fascinating historical background.",
+      "Vancouver hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Vancouver has a landmark that is famous worldwide.",
+      "The cuisine of Vancouver is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Montreal",
+    "country": "Canada",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Montreal has a fascinating historical background.",
+      "Montreal hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Montreal has a landmark that is famous worldwide.",
+      "The cuisine of Montreal is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Calgary",
+    "country": "Canada",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Calgary has a fascinating historical background.",
+      "Calgary hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Calgary has a landmark that is famous worldwide.",
+      "The cuisine of Calgary is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Ottawa",
+    "country": "Canada",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Ottawa has a fascinating historical background.",
+      "Ottawa hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Ottawa has a landmark that is famous worldwide.",
+      "The cuisine of Ottawa is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Sydney",
+    "country": "Australia",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Sydney has a fascinating historical background.",
+      "Sydney hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Sydney has a landmark that is famous worldwide.",
+      "The cuisine of Sydney is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Melbourne",
+    "country": "Australia",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Melbourne has a fascinating historical background.",
+      "Melbourne hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Melbourne has a landmark that is famous worldwide.",
+      "The cuisine of Melbourne is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Brisbane",
+    "country": "Australia",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Brisbane has a fascinating historical background.",
+      "Brisbane hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Brisbane has a landmark that is famous worldwide.",
+      "The cuisine of Brisbane is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Perth",
+    "country": "Australia",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Perth has a fascinating historical background.",
+      "Perth hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Perth has a landmark that is famous worldwide.",
+      "The cuisine of Perth is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Auckland",
+    "country": "New Zealand",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Auckland has a fascinating historical background.",
+      "Auckland hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Auckland has a landmark that is famous worldwide.",
+      "The cuisine of Auckland is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Wellington",
+    "country": "New Zealand",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Wellington has a fascinating historical background.",
+      "Wellington hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Wellington has a landmark that is famous worldwide.",
+      "The cuisine of Wellington is well-loved by both locals and visitors."
+    ]
+  },
+  {
+    "city": "Christchurch",
+    "country": "New Zealand",
+    "clues": [
+      "This city is known for its unique cultural heritage.",
+      "It is a popular tourist destination with rich history and architecture."
+    ],
+    "fun_fact": [
+      "Christchurch has a fascinating historical background.",
+      "Christchurch hosts several annual festivals that attract visitors from around the world."
+    ],
+    "trivia": [
+      "Christchurch has a landmark that is famous worldwide.",
+      "The cuisine of Christchurch is well-loved by both locals and visitors."
+    ]
+  }
+]
