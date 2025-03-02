@@ -4,7 +4,7 @@ Globetrotter is a full-stack web app where users get cryptic clues about a famou
 ![og-image](https://github.com/user-attachments/assets/15188907-3c13-4c0a-b1c7-d7500ccdf388)
 
 ## 🚀 Live Demo
-[Play Globetrotter](https://extraordinary-creation-production.up.railway.app/)
+[To Play Globetrotter, Click Here](https://extraordinary-creation-production.up.railway.app/)
 
 ## 🛠 Tech Stack & Architecture
 
