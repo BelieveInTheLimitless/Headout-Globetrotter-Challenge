@@ -71,3 +71,45 @@ Globetrotter is a full-stack web app where users get cryptic clues about a famou
   * WhatsApp invitation link
 - [ ] Display invitee's score to the invited friend
 - [ ] Invitation link provides full game access
+
+## Setup Instructions
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/BelieveInTheLimitless/Headout-Globetrotter-Challenge.git
+cd Headout-Globetrotter-Challenge
+```
+
+### 2. MongoDB Database Configuration
+```bash
+# Make sure Docker is already present in your system
+docker run -d -p 27017:27017 --name mongodb mongo:latest
+```
+
+### 3.Building and running the backend
+```bash
+# Inside main repository
+cd backend
+# Setup python virtual environmnent
+python3 -m venv .venv
+# Activate virtual envirornment
+source .venv/bin/activate
+# Install dependencies
+pip3 install -r requirements.txt
+#Run the uvicorn server
+uvicorn app.main:app --reload
+#open the server on localhost:8080
+#To exit the application, ctrl+c, then
+deactivate
+```
+
+### 4. Building and running the frontend
+```bash
+#Inside main repository
+cd frontend
+# Install packages
+npm install
+# Run and open the frontend
+npm run dev
+#To exit the application, ctrl+c
+```
