@@ -31,10 +31,10 @@ Globetrotter is a full-stack web app where users get cryptic clues about a famou
 
 ## 🎯 Project Overview
 
-### 1. Dataset & AI Integration
-- [ ] Create a comprehensive dataset of 100+ destinations
-- [ ] Utilize AI tools for dataset expansion
-- [ ] Dataset must include:
+### 1. Dataset
+- [ ] Created a comprehensive dataset of 100+ destinations
+- [ ] Utilized AI tools for dataset expansion
+- [ ] Dataset includes:
   * Cryptic clues for each destination
   * Fun facts
   * Interesting trivia
@@ -56,13 +56,13 @@ Globetrotter is a full-stack web app where users get cryptic clues about a famou
   * Total incorrect answers
 
 #### Backend Requirements
-- [ ] Store dataset on backend
-- [ ] Prevent users from accessing all questions/answers through source code
+- [ ] Storing dataset on backend
+- [ ] Preventing users from accessing all questions/answers through source code
 
 ### 3. "Challenge a Friend" Feature
 #### User Registration
-- [ ] Username entry before playing
-- [ ] Create user profile in the system
+- [ ] Username is entered before playing
+- [ ] It Creates user profile in the system if username is found unique, else re-enter username message is displayed
 
 #### Friend Challenge Mechanism
 - [ ] 'Challenge a Friend' button functionality
