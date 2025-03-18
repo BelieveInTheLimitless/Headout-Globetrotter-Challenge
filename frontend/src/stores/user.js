@@ -20,12 +20,12 @@ export const useUserStore = defineStore('user', {
   },
   
   actions: {
-    async registerUser(username) {
+    async registerUser(username, anonymousStats = null) {
       this.loading = true;
       this.error = null;
       
       try {
-        const userData = await usersApi.createUser(username);
+        const userData = await usersApi.createUser(username, anonymousStats);
         this.username = userData.username;
         this.score = userData.score;
         this.correctAnswers = userData.correct_answers;
