@@ -93,7 +93,6 @@
 </template>
 
 <script setup>
-import { ref } from 'vue';
 import { useUserStore } from '@/stores/user';
 import { useGameStore } from '@/stores/game';
 import { useRouter } from 'vue-router';

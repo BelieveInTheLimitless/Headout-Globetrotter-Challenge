@@ -68,7 +68,6 @@
 <script setup>
 import { ref } from 'vue';
 import { useUserStore } from '@/stores/user';
-import { usersApi } from '@/services/api';
 
 const props = defineProps({
   isRegistering: {
@@ -100,21 +99,7 @@ const handleSubmit = async () => {
   error.value = '';
   
   try {
-    // Register user with anonymous stats if available
-    const userData = await usersApi.createUser(
-      username.value.trim(), 
-      props.anonymousStats
-    );
-    
-    // Set user store data
-    userStore.username = userData.username;
-    userStore.score = userData.score;
-    userStore.correctAnswers = userData.correct_answers;
-    userStore.totalAttempts = userData.total_attempts;
-    
-    // Save username to localStorage
-    localStorage.setItem('username', username.value.trim());
-    
+    await userStore.registerUser(username.value.trim(), props.anonymousStats);
     emit('success', username.value);
   } catch (err) {
     console.error('Registration error:', err);
