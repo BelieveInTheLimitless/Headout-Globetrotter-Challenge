@@ -230,7 +230,7 @@ const handleChallengeClick = () => {
   }
 };
 
-const handleLoginSuccess = async (username) => {
+const handleLoginSuccess = async () => {
   showLoginModal.value = false;
 
   // Apply anonymous scores if any, directly at user creation time

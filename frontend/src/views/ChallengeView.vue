@@ -91,6 +91,10 @@ const loading = ref(false);
 const error = ref('');
 const showLoginModal = ref(false);
 
+const handleLoginSuccess = () => {
+  showLoginModal.value = false;
+};
+
 onMounted(async () => {
   const challengeId = route.params.challengeId;
 
