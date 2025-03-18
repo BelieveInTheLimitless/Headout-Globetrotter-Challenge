@@ -98,7 +98,7 @@ source .venv/bin/activate
 pip3 install -r requirements.txt
 #Run the uvicorn server
 uvicorn app.main:app --reload
-#open the server on localhost:8080
+#open the server on localhost:8000
 #To exit the application, ctrl+c, then
 deactivate
 ```
